@@ -17,4 +17,22 @@ A beginner-friendly Python project that uses an API to fetch weather information
 - JSON
 - User Input
 
-More projects will be added as I continue learning Python.
+### 02. Rock Paper Scissors
+
+A simple command-line Rock Paper Scissors game where the player competes against the computer.
+
+The computer randomly chooses between rock, paper, and scissors.
+
+**Concepts Used:**
+- Python
+- `random` module
+- Conditional statements
+- `if-elif-else`
+- User Input
+- String methods
+- F-strings
+
+**How to Run:**
+
+```bash
+python main.py
